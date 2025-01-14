@@ -173,7 +173,7 @@ An Agile BA maintains a **user-centric mindset**, stays **flexible**, and treats
 # Agile: User Focus
 <span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 7</span>
 ## Key Concepts of User Focus in Agile
-![alt text](image.png)
+![alt text](images/image.png)
 ### 1. The Human Factor
 - Agile focuses on the **customer** or **end user** as the center of analysis. Even in technical projects, always consider the **human impact**.
 - Always aim to **connect the technology to the user** and work from a **user perspective**.
@@ -201,7 +201,7 @@ Keeping a **user-focused mindset** in Agile helps teams create better solutions 
 # Agile: Feedback
 <span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 8</span>
 ## Key Concepts of Feedback in Agile
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ### 1. The Importance of Feedback
 - **Feedback** is the cornerstone of Agile development. It informs how well users are accomplishing their goals with the product.
@@ -210,7 +210,7 @@ Keeping a **user-focused mindset** in Agile helps teams create better solutions 
 ### 2. Proactive vs Reactive Feedback
 - Simply asking users for feedback or reacting to issues they submit is **insufficient**. 
 - The goal is to track **user behaviors** that signal success, and gather **continuous feedback** about how well users can use the product.
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 ### 3. Tracking Success
 - For example, if you're building a feature that allows customers to get account information without calling support, track how many users can successfully use the feature instead of calling.
 - If **users continue to call support**, this indicates that the feature isn't working as expected.
@@ -223,7 +223,7 @@ Keeping a **user-focused mindset** in Agile helps teams create better solutions 
 ### 5. Using Feedback Effectively
 - Aligning feedback with **user behavior metrics** and **product goals** is crucial for improving the product.
 - Feedback helps prioritize what to build next and informs whether the team is on the right track.
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 ---
 
 ## Summary  
@@ -337,7 +337,7 @@ We live in a **VUCA world**, characterized by increasing **Volatility, Uncertain
 ## The Components of VUCA
 
 ### 1. **Volatility**
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 - **Definition:** Rapid and unpredictable changes in industries, technology, and customer interactions.
 - **Impact:** Disrupts priorities and requirements.
 - **BA Approach:** 
@@ -345,7 +345,7 @@ We live in a **VUCA world**, characterized by increasing **Volatility, Uncertain
   - Stay adaptable to shifts in technology and business needs.
 
 ### 2. **Uncertainty**
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 - **Definition:** The unknowns in a rapidly evolving world where needs and opportunities emerge unpredictably.
 - **Impact:** Creates difficulty in forecasting and planning.
 - **BA Approach:** 
@@ -353,7 +353,7 @@ We live in a **VUCA world**, characterized by increasing **Volatility, Uncertain
   - Leverage insights to pivot quickly and meet customer needs.
 
 ### 3. **Complexity**
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 - **Definition:** Interconnected parts and variables in organizations, products, and customers.
 - **Impact:** Challenges understanding, defining, and delivering value.
 - **BA Approach:** 
@@ -362,7 +362,7 @@ We live in a **VUCA world**, characterized by increasing **Volatility, Uncertain
   - Deliver, learn, and iterate simultaneously.
 
 ### 4. **Ambiguity**
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 - **Definition:** Lack of clarity or certainty about meaning, direction, or outcomes.
 - **Impact:** Leads to confusion and indecision.
 - **BA Approach:**
@@ -417,16 +417,16 @@ Transparency is a cornerstone of Agile practices, fostering clear communication 
 ### 1. Poor Transparency
 Imagine tracking a pizza order with unclear updates:
 - Example: *"Pizza is at step 4 out of 10."*  
-![alt text](image-9.png)
-![alt text](image-10.png)
+![alt text](images/image-9.png)
+![alt text](images/image-10.png)
   - This doesn’t provide actionable insight for the customer, such as when the pizza will arrive.  
 Similarly, in Agile, progress reports framed in technical terms (e.g., "backend APIs 80% complete") may confuse stakeholders.
 
 ### 2. Effective Transparency
 Now imagine the same pizza order with meaningful updates:
 - Example: *"Your pizza is in the oven and will arrive in 15 minutes."*  
-![alt text](image-8.png)
-![alt text](image-11.png)
+![alt text](images/image-8.png)
+![alt text](images/image-11.png)
   - This is actionable and clear.  
 In Agile, progress framed in **user-focused terms** (e.g., "Users can now log in and view their account details") makes progress meaningful to stakeholders.
 
@@ -562,9 +562,9 @@ Cross-functional teams are a cornerstone of Agile practices, enabling collaborat
 
 ## What is a Cross-Functional Team?
 A cross-functional team consists of members with varied expertise working collaboratively toward a shared objective.  
-- **Example in Soccer:**  ![alt text](image-13.png)
+- **Example in Soccer:**  ![alt text](images/image-13.png)
   A soccer team combines roles like goalie, defenders, midfielders, and forwards to score a goal. Each role contributes uniquely, but success comes from their teamwork.  
-- **Example in Software Development:**  ![alt text](image-12.png)
+- **Example in Software Development:**  ![alt text](images/image-12.png)
   Teams may include business stakeholders, front-end and back-end developers, data specialists, QA analysts, UX designers, and business analysts working together on a project.  
 
 ---
@@ -881,7 +881,7 @@ A prioritized list of what the team will deliver, ensuring the team focuses on b
    - **Later Releases:** For medium-term delivery.
    - **Near-Term Releases:** Items for upcoming releases.
    - **Next Up:** Ranked 1–10, most detailed and ready for immediate focus.
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 ---
 
 ## Role of the BA and Product Owner
@@ -957,7 +957,7 @@ Healthy backlogs are critical for success, balancing flexibility and focus while
 An effective BA ensures the backlog flows smoothly, driving better outcomes for the team and customers.
 
 # Level of Detail in the Backlog
-
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 119</span>
 ## Overview
 - Backlog items should be **well-written**, **independent**, and represent **increments of value**.
 - Detail level varies by priority:  
@@ -1010,7 +1010,7 @@ An effective BA ensures the backlog flows smoothly, driving better outcomes for 
 A well-detailed backlog, defined at the right time, enables the team to focus on delivering value while staying flexible and efficient.
 
 # Refining the Backlog
-
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 20</span>
 ## Overview
 Backlog refinement is an ongoing task for Agile BAs to ensure the team has prioritized, actionable work ready for upcoming sprints.
 
@@ -1039,7 +1039,7 @@ Backlog refinement is an ongoing task for Agile BAs to ensure the team has prior
 Refinement ensures the team builds valuable, user-focused solutions aligned with organizational goals.
 
 # Analyzing the Backlog
-
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 21</span>
 ## Overview
 Agile BAs go beyond user stories, leveraging deep business analysis skills to identify gaps, refine items, and ensure a clear, actionable backlog.
 
@@ -1069,9 +1069,6 @@ Agile BAs use lightweight, user-focused models to analyze and refine backlog ite
 - **Team Enabler**: Support Agile teams in delivering high-quality, user-focused solutions.
 
 ---
-
-## Key Takeaway
-Great backlog analysis drives better outcomes by ensuring clarity, collaboration, and alignment with user and business needs.
 # Collaborating with the Product Owner on the Backlog
 
 ## Roles and Responsibilities
@@ -1095,11 +1092,8 @@ Great backlog analysis drives better outcomes by ensuring clarity, collaboration
    - BAs simplify decision-making for the product owner by organizing, analyzing, and presenting key information.
 
 ---
-
-## Key Takeaway
-A strong partnership between the product owner and BA ensures a well-managed backlog, aligning the team’s work with strategic goals and delivering products that delight users.
 # Product Decomposition
-
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 22</span>
 ## Concept
 - **Analogy**: Think of managing your home—prioritizing improvements based on value, cost, feasibility, and risk. Similarly, Agile teams decompose products to create a clear and prioritized view of work.  
 - **Purpose**: Break down complex products into manageable chunks for better planning, prioritization, and alignment.
@@ -1173,5 +1167,714 @@ Product decomposition maps drive essential conversations, clarify scope, and ali
 
 ---
 
-## Key Takeaway
-As an Agile BA, provide context visuals to stimulate big-picture discussions. These visuals align the team and enhance decision-making, fostering a more cohesive and focused Agile workflow.
+
+# User Observation in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 23</span>
+## Why Observation is Crucial
+- **Unveils Assumptions**: Challenges preconceived notions about how users interact with the product.  
+- **Drives Insight**: Reveals unexpected user behaviors, needs, and frustrations.  
+- **Improves Quality**: Enhances requirements and team performance by aligning with actual user needs.  
+
+---
+
+## Types of Observation
+1. **Passive Observation**:
+   - Observe users without interacting with them.  
+   - Focus on processes, emotions, and challenges.  
+   - Non-intrusive and quicker but may lack deeper insights.
+
+2. **Active Observation**:
+   - Engage with users while they work.  
+   - Ask questions to clarify or confirm observations.  
+   - Provides deeper understanding but takes more time and interrupts users.  
+
+---
+
+## Key Focus Areas During Observation
+1. **Tasks and Goals**:
+   - Understand the problem users are solving with the product.  
+   - Identify their workflow and task-related challenges.
+
+2. **Emotions**:
+   - Look for moments of frustration and delight.  
+   - Gauge emotional responses to specific features or tasks.
+
+3. **External Tools**:
+   - Observe tools or systems users rely on outside the product.  
+   - Look for gaps in functionality where users switch to other products or manual methods.
+
+4. **Internal Decisions**:
+   - Analyze the decisions users make while using the product.  
+   - Understand the knowledge or context they rely on.
+
+---
+
+## Benefits of Observation
+- **Discover Hidden Issues**: Identify areas for improvement that users may not articulate.  
+- **Prioritize Enhancements**: Focus on features that reduce frustration and increase satisfaction.  
+- **User-Centric Design**: Build products that truly address user needs and preferences.  
+
+---
+
+## Tips for Effective Observation
+- **Allocate Time**: Observation requires a significant time investment but delivers high returns.  
+- **Balance Methods**: Use both passive and active techniques based on the situation.  
+- **Document Findings**: Capture insights on user behaviors, emotions, and needs for the team.  
+
+---
+
+
+# User Stories in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 24</span>
+## What Are User Stories?
+- **Definition**: User stories are concise, simple descriptions of a feature from the user's perspective.  
+- **Purpose**: Facilitate conversations about what needs to be built.  
+- **Example**:  
+  - *"As an online shopper, I want to pay for the items in my cart so I can proceed to get them shipped."*  
+  - **Who**: Online shopper  
+  - **What**: Pay for items in the cart  
+  - **Why**: Proceed to shipping  
+
+---
+
+## The INVEST Model for User Stories
+A framework to ensure well-articulated user stories.  
+
+### **I - Independent**  
+- **Description**: Stories should stand alone and not depend on others.  
+- **Example**:  
+  - *"As an online shopper, I want to select the size of the coffee bag so I can purchase just enough to keep it fresh."*  
+  - Focuses on a single user action without requiring other stories.  
+
+### **N - Negotiable**  
+- **Description**: Stories should allow for flexibility and collaboration during implementation.  
+- **Tip**: Provide enough detail to understand the need but leave room for evolution.  
+
+### **V - Valuable**  
+- **Description**: Stories should deliver clear value to the user or customer.  
+- **Focus**: A story must represent a complete and meaningful piece of value.  
+
+### **E - Estimable**  
+- **Description**: Stories should be detailed enough for the team to estimate and commit to completing.  
+- **Outcome**: Ensures clarity and supports planning.  
+
+### **S - Small**  
+- **Description**: Stories should be small enough to be completed within a sprint or iteration.  
+- **Goal**: Avoid overly complex or large stories that may span multiple iterations.  
+
+### **T - Testable**  
+- **Description**: Stories must include criteria to verify success from a user’s perspective.  
+- **Key Element**: Defined acceptance criteria to validate the story’s completion.  
+
+---
+
+## Benefits of the INVEST Model
+- Encourages **collaboration** between team members.  
+- Helps the **product owner prioritize** effectively.  
+- Keeps **value** and the **user perspective** at the forefront.  
+- Breaks down complexity into manageable, actionable parts.  
+
+---
+
+## Tips for Writing Great User Stories
+1. **Start Conversations**: Treat stories as the beginning of dialogue, not the end.  
+2. **Focus on Value**: Align each story with user or customer needs.  
+3. **Include Acceptance Criteria**: Define success clearly.  
+4. **Iterate and Refine**: Update stories as the team gains new insights.  
+5. **Promote Collaboration**: Use stories to connect product owners, developers, and stakeholders.  
+
+---
+
+# Handling Technical Stories in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 25</span>
+## What Are Technical Stories?
+- **Definition**: Technical tasks that are critical for the product but do not directly involve user interaction.  
+- **Issue**: These are sometimes mislabeled as "technical stories," but stories should always focus on user value and impact.  
+
+---
+
+## Guidelines for Technical Work
+
+### **1. Focus on the User Impact**
+- Reframe technical tasks to highlight their **business value**.  
+- Example: Instead of *"Upgrade the database,"* write:  
+  - *"To support over 1,000 shoppers and payments on the site, we need to upgrade the database."*  
+
+### **2. Prioritize Against Backlog Items**
+- The **product owner** must understand why the task is valuable.  
+- This ensures that technical tasks are prioritized in alignment with other user-focused items.
+
+### **3. Use the "Value + Task" Format**
+- **Value**: What the user gains or how the product improves.  
+- **Task**: The specific technical action required.  
+- Example Format:  
+  - *"To improve the site's performance for users during peak traffic, upgrade the server infrastructure."*  
+
+### **4. Collaborate with the Team**
+- Engage technical leads to explain the **importance** of the task in user terms.  
+- Example: A team might justify a database upgrade for better scalability, allowing the product to support a growing user base.  
+
+
+
+
+
+# Acceptance Criteria in Agile User Stories
+![alt text](images/image-15.png)
+## What Are Acceptance Criteria?
+- **Definition**: Conditions that determine when a user story is complete and meets the user's expectations.  
+- **Purpose**: Helps the team define **success** from the user's perspective and ensures alignment on outcomes.
+
+---
+
+## Key Characteristics
+1. **User-Focused**: Written from the user's point of view.  
+2. **Clear Results**: Provides conditions and outcomes that are specific and testable.  
+3. **Collaborative**: Often documented by the Business Analyst (BA) but defined collectively by the team.  
+4. **Attached to the User Story**: Provides additional detail without overwhelming with technical specifics.
+
+---
+
+## Components of Acceptance Criteria
+Typically structured using the **Given-When-Then** format:  
+1. **Given**: The preconditions or setup for the scenario.  
+   - Example: *Given a user has items in their cart...*  
+2. **When**: The user action that triggers the system's response.  
+   - Example: *When the user clicks the "Pay Now" button...*  
+3. **Then**: The expected system response(s).  
+   - Example: *Then the system processes the payment and displays a confirmation message.*  
+
+---
+
+## Example: Online Coffee Store Payment  
+![alt text](images/image-16.png)
+**User Story**:  
+*As an online shopper, I want to pay for items in my cart so I can get them shipped to me.*
+
+**Acceptance Criteria**:
+1. **Given**: The user has items in their cart and clicks "Pay Now".  
+   - **When**: The user selects a payment method.  
+   - **Then**: The system calculates the total, including taxes and shipping.  
+   - **Then**: The system confirms the payment method is valid.  
+   - **Then**: The system displays a "Payment Successful" message.  
+
+2. **Non-Functional Criteria**:  
+   - The payment process must complete within 5 seconds.  
+   - The system should handle up to 1,000 concurrent payment transactions.  
+   - All payment data must be encrypted during transmission.  
+
+---
+# User Story Maps: A Visual Tool for Agile Teams
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 26</span>
+
+## What Is a User Story Map?
+- **Definition**: A user story map is a **visual representation** of user stories, organized to tell the full story of how users interact with a product.  
+- **Purpose**: Keeps the team focused on the **big picture** of the user experience, fostering better conversations and decisions.
+
+---
+
+## Structure of a User Story Map
+1. **Horizontal Axis (Left to Right)**:
+   - Represents the **sequence of actions** a user takes when interacting with the product.  
+   - Example: *User Profile > Browsing > Adding to Cart > Checkout*  
+
+2. **Vertical Axis (Top to Bottom)**:
+   - Adds **detail and granularity** to each high-level user story.  
+   - Example:  
+     - *Top-Level Story*: "Create a Profile"  
+     - *Details*: "Create Username/Password," "Enter Shipping Information," "Save Payment Details"  
+
+---
+
+## Benefits of Story Mapping
+1. **Big Picture View**: Helps the team see how individual stories fit into the overall user experience.  
+2. **Improved Collaboration**: Encourages team discussions to align on scope and priorities.  
+3. **Gap Identification**: Reveals missing elements in the user's journey or product scope.  
+4. **Prioritization**: Enables clear identification of the **Minimum Viable Product (MVP)** and stories that can be postponed or discarded.  
+
+---
+
+## Example: Online Coffee Store Story Map
+![alt text](images/image-17.png)
+ 
+
+---
+
+## Key Guidelines for Story Mapping
+1. **Sequence Matters, But Don't Stress**:
+   - Focus on the overall flow rather than achieving a "perfect" order.  
+2. **Work as a Team**:
+   - Use story mapping in a workshop to align all stakeholders.  
+3. **Identify the MVP**:
+   - Mark the essential stories for the first release and set aside less critical ones.  
+4. **Iterate**:
+   - Continuously update the map as the product evolves and new insights emerge.  
+
+---
+
+# Scenario Planning in Business Analysis
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 27</span>
+
+![alt text](images/image-18.png)
+## What is Scenario Planning?
+- **Definition**: Scenario planning is the process of identifying and analyzing various user paths or situations a system or product might need to handle. It's about recognizing all potential variations and being prepared for them.
+- **Purpose**: Helps teams focus on **user needs**, ensures **transparency**, and produces **demoable working software** or process improvements.
+
+---
+
+## Example: Secure Building Access
+
+**User Story**:  
+*"As an employee, I want to enter the building so I can go to work."*  
+- This seems simple, but upon further analysis, we realize there are several **user groups** and **scenarios** to consider.
+
+---
+
+### Identifying User Groups
+1. **Employees**
+2. **Guests**
+3. **Contractors**
+
+Each of these user groups will have **different scenarios** when trying to access the building.
+
+---
+
+### Scenarios for Employees
+- **Normal hours vs. Off hours**  
+- **Card reader working vs. Not working**  
+- **Access granted vs. Not granted**
+
+This results in **eight possible combinations** of scenarios:
+1. Enter during normal hours with the card reader working
+2. Enter during normal hours with the card reader not working
+3. Enter during normal hours with access granted
+4. Enter during normal hours with access denied
+5. Enter during off hours with the card reader working
+6. Enter during off hours with the card reader not working
+7. Enter during off hours with access granted
+8. Enter during off hours with access denied
+
+Each combination might translate into **two user stories**, with specific **acceptance criteria**.
+
+---
+
+### User Story Examples for Employees:
+1. **Story 1**: "As an employee, I want to enter the building during normal working hours so I can access my office space and do my work."
+   - **Acceptance Criteria**: The employee must be able to access the building when the card reader is functioning.
+   
+2. **Story 2**: "As an employee, I want to enter the building during off hours so I can access my office space and do my work."
+   - **Acceptance Criteria**: The employee must be able to access the building when the card reader is not functioning but has access granted.
+
+---
+
+### Other Scenarios and User Groups
+1. **Restricted Areas**: Will the employee, guest, or contractor be able to access all areas, or are some restricted?  
+2. **Temporary Access**: What if a user needs temporary access?  
+3. **Elevator Access**: Are there specific elevator access restrictions based on the user group?
+
+---
+
+## Benefits of Scenario Planning:
+1. **Thorough Analysis**: Identifying all possible paths ensures that the team understands every variation of user interaction with the system.
+2. **Clear User Stories**: Helps break down complex or high-level user stories into smaller, manageable chunks.
+3. **Better Prioritization**: Helps determine which scenarios are critical to the product's functionality and how they should be implemented.
+4. **Improved Communication**: Scenario planning fosters discussions with stakeholders, ensuring that all perspectives are considered.
+
+---
+
+
+# Story Slicing and Splitting in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 28</span>
+
+![alt text](images/image-19.png)
+## What is Story Slicing and Splitting?
+- **Definition**: Story slicing or splitting is the practice of breaking down larger user stories into smaller, manageable pieces. This ensures the team can complete the story within a short timeframe, get feedback, and deliver value incrementally.
+- **Purpose**: Helps teams estimate, plan, and deliver work efficiently in Agile sprints.
+
+---
+
+## Importance of Good Story Splitting
+- **Prepares for Backlog Refinement**: Splitting stories is crucial during backlog refinement sessions.
+- **Ensures Feasibility**: Smaller stories are easier to estimate, commit to, and plan for.
+- **Increases Flexibility**: Smaller user stories provide flexibility in planning, reducing risk and complexity.
+- **Feedback**: Small, independent user stories allow the team to get more frequent feedback from users.
+
+---
+
+### Common Mistake: Splitting by Technical Tasks
+- **Incorrect Split**: Some teams mistakenly split user stories by technical tasks (e.g., backend task, UI task), which is **task planning**, not **user story splitting**.
+- **Why It’s Wrong**: User stories must be independent, demoable, and focused on the user's experience. Splitting by technical tasks makes it hard for the product owner to prioritize and could result in a fragmented user experience.
+
+---
+
+## Example: Online Coffee Store Case Study
+
+### Original User Story:
+**"As a customer, I want to pay with a gift card so I can use the gift to buy something I want."**
+
+This story might be too large for a single sprint, so we slice it into smaller stories. Here’s how it could be split:
+
+1. **Smaller Story 1**: "As a customer, I want to enter the gift card on my profile so I can use it later to make a purchase."
+2. **Smaller Story 2**: "As a customer, I want to select to use a gift card at checkout so I can pay with a gift card."
+3. **Smaller Story 3**: "As a customer, I want to view my gift card balance so I can determine if I can use it for my next purchase."
+4. **Smaller Story 4**: "As a customer, I want to use my gift card balance for part of my purchase and another payment method for the remainder, so I can buy something larger than the gift card’s value."
+
+---
+
+### Why These Smaller Stories Work:
+- **User-Centered**: These stories are split based on user actions and the value delivered, not by technical tasks.
+- **Incremental Value**: Each story delivers tangible value to the customer and can be developed and tested independently.
+- **Demoable and Independent**: These stories are independently demoable, providing feedback on each step from a user's perspective.
+
+---
+
+# Lightweight Modeling in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 29</span>
+
+## What is Lightweight Modeling?
+- **Definition**: Lightweight modeling refers to using simple, high-level models and diagrams that facilitate conversation, understanding, and decision-making without delving into unnecessary detail.
+- **Key Concept**: It's not about doing less analysis; it's about being efficient with the level of detail and focusing on what's necessary for the task at hand.
+  
+---
+
+## Characteristics of Lightweight Modeling
+1. **Just-In-Time Documentation**:
+   - Document only what’s needed, when it’s needed.
+   - Avoid excessive upfront documentation.
+   - Focus on getting just enough information to move forward.
+
+2. **Contextual Visuals**:
+   - Create models and drawings that reflect the context of the customer or user.
+   - The purpose is to represent the big picture, not the technical inner workings, unless needed for team discussions.
+
+3. **Conversation Focus**:
+   - Documentation serves as a reminder of conversations, not as an end in itself.
+   - Encourage team dialogue and shared understanding.
+
+4. **Fast Creation and Adaptation**:
+   - Visual models can be created quickly (e.g., on a whiteboard or using simple tools).
+   - Models should be adaptable and capable of change based on team discussions and feedback.
+
+---
+
+## Lightweight Models: Practical Examples
+
+### 1. **Process Models**
+   - **Approach**: Focus on simplicity with no more than 10 shapes.
+   - **Purpose**: Facilitate a quick, high-level understanding and generate conversation.
+   - **Example**: Use a whiteboard to sketch out the basic flow of a process instead of creating a detailed diagram using complex modeling languages.
+
+### 2. **Screen Design**
+   - **Approach**: Low-fidelity hand drawings, skipping technical details.
+   - **Purpose**: Focus on conveying concepts and user goals rather than creating a perfect mockup.
+   - **Example**: Sketch the basic layout of a screen on paper or a whiteboard, leaving out precise design details for later refinement.
+
+### 3. **Analysis Models (e.g., Data Flow, State, Sequence Diagrams)**
+   - **Approach**: Keep them high-level and focused on user/business flow.
+   - **Purpose**: Start conversations around system behavior, not internal technical details.
+   - **Example**: Draw a basic data flow diagram that focuses on the key entities involved and their interactions, leaving out technical implementation specifics.
+
+---
+
+## Benefits of Lightweight Modeling
+- **Encourages Collaboration**: These models promote team discussions, helping everyone to align on goals and understanding.
+- **Saves Time**: Models are quick to create and adapt, minimizing wasted effort on over-engineered documentation.
+- **Flexible**: These models can evolve as the project progresses and the team’s understanding deepens.
+- **Focused on Value**: By keeping models lightweight, the team can stay focused on delivering value and responding to user needs, rather than getting caught up in technical minutiae.
+
+---
+
+## Conclusion: The Purpose of Lightweight Modeling
+- **Conversation Starters**: These models are designed to initiate discussions, not to be formal sign-off documents.
+- **Shared Understanding**: They promote alignment within the team and with stakeholders, ensuring everyone is on the same page.
+- **Tool for Collaboration**: Lightweight models are effective tools for facilitating analysis and collaboration, ultimately leading to better results.
+
+By using lightweight modeling, Agile teams can focus on delivering value quickly and efficiently, adapting as needed to ensure that the work aligns with user goals and business needs.
+# The Last Responsible Moment in Business Analysis
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 29</span>
+
+## Concept of Last Responsible Moment
+- **Definition**: The Last Responsible Moment refers to making decisions as late as possible without causing adverse effects. It’s about understanding when you have enough information to make a decision without waiting too long and incurring unnecessary risks or delays.
+
+---
+
+## Why It Matters
+- **Flexibility**: Making decisions at the last responsible moment gives the team more flexibility to adapt to new information and opportunities.
+- **Minimizing Cost of Delay**: By waiting until the last responsible moment, teams can avoid the cost of delaying decisions while still leaving room for adjustments.
+- **Avoiding Premature Commitment**: Early decisions can lock the team into paths that may be difficult to change later, especially when more information becomes available.
+
+---
+
+## Balancing the Last Responsible Moment and Cost of Delay
+- **Last Responsible Moment**: Not about procrastination, but ensuring that decisions are made with as much information as possible and with minimal negative impact.
+- **Cost of Delay**: Understanding that delaying a decision may come with negative consequences that need to be weighed against the benefits of waiting.
+
+---
+
+## Key Applications of the Last Responsible Moment in Requirements
+1. **Avoiding Over-Definition**:
+   - **Problem**: Defining everything in detail upfront can hinder the team’s ability to respond to change quickly.
+   - **Solution**: Let the team work iteratively, adjusting as new information comes in, rather than committing to all the details right away.
+
+2. **Waiting for More Information**:
+   - Sometimes, more information will be available later, which may impact the decision-making process. Delaying decisions until more is known can often be the right choice.
+   - **Example**: Waiting for customer feedback from the last release may impact decisions regarding upcoming features.
+
+3. **Focus on Just-In-Time Work**:
+   - Teams should avoid doing work "just in case" and instead focus on completing work "just in time" based on the most up-to-date information.
+
+---
+
+## The Challenge of Determining the Last Responsible Moment
+- **Instinct and Experience**: Determining the last responsible moment often comes down to a judgment call based on team experience, business context, and instinct.
+- **Balancing Trade-offs**: The trade-off is between making a decision too early (and potentially missing out on new insights) versus waiting too long (which can put pressure on deadlines).
+![alt text](images/image-20.png)
+---
+
+## Practical Judgment
+- **When to Delay**: If waiting for more information doesn’t significantly impact deadlines or outcomes, delaying decisions can be beneficial.
+- **When to Act Quickly**: If waiting becomes detrimental, the decision should be made even without all the details.
+
+---
+
+## The Results of Using the Last Responsible Moment
+- **Better Adaptability**: Teams become more adaptable to changes, new information, and emerging opportunities.
+- **Better Product**: By waiting for the right moment to make decisions, the final product can better align with customer needs and market conditions.
+
+---
+
+## Conclusion
+- **Skill to Practice**: Understanding and applying the Last Responsible Moment is a skill that improves over time with experience and awareness of both internal and external factors.
+- **Outcome**: The result is a more flexible, adaptable team that can deliver higher-quality products that respond better to changing requirements.
+
+# Minimum Viable Product (MVP) in Agile \\
+**WE USE IT IN PR- WEBSITE**
+
+## Definition of MVP
+- **MVP** stands for **Minimum Viable Product** in Agile, not the **most valuable player**.
+- It refers to the smallest version or release of a product that delivers enough value to learn from and assess the viability of the product.
+- The goal of MVP is to balance cost, risk, and value by delivering only what’s necessary to gain insights from early users or adopters.
+
+---
+
+## Key Concepts of MVP
+1. **Learning Quickly**: MVP allows teams to test assumptions, validate features, and gather user feedback early.
+2. **Avoid Over-Engineering**: MVP is about delivering enough value without wasting resources on features that might not be needed.
+3. **Avoid Under-Engineering**: It’s also about ensuring the product is not too basic and meets the needs of early adopters.
+4. **Flexibility**: MVP allows the team to pivot or adjust based on feedback and changing priorities without overcommitting.
+5. **Focus on What Matters**: MVP ensures that teams focus on the core features that deliver the most value, and avoid building unnecessary features.
+
+---
+![alt text](images/image-21.png)
+## MVP vs. Minimum Viable Thinking
+- **Minimum Viable Thinking** is a broader concept than just MVP. It helps teams focus on what really matters and avoid over- or under-engineering a product.
+- This thinking allows teams to deliver work faster by developing each feature at the right depth and breadth.
+
+---
+![alt text](images/image-22.png)
+## Role of the Product Owner and Business Analyst in MVP
+- Both the **product owner** and **business analyst** play key roles in defining what’s "minimally viable" for each feature or product release.
+- They need to balance **cost**, **time**, and **risk** while satisfying customer needs and learning more about the user.
+
+---
+
+## MVP at Feature Level
+- MVP can apply not only to the entire product but also to individual **features** or **feature slices**.
+- Each feature must be broken down and defined as minimally viable to guide the team’s work and prioritize the backlog effectively.
+
+---
+
+## Agile Business Analyst’s Role
+- As an Agile **Business Analyst**, your role is to **facilitate and prepare** for discussions around MVP.
+- You help the team identify and define what’s minimally viable to satisfy customer needs and achieve feedback goals.
+- Your skills in eliciting, analyzing, conceptualizing, and telling the story are essential in driving the shared understanding of MVP within the team.
+
+---
+
+## Conclusion
+- **Minimum Viable Product** is about delivering just enough to meet the near-term goals while minimizing waste.
+- By focusing on **MVP**, Agile teams can **learn quickly** and deliver **valuable** results faster.
+- By keeping the team focused on **MVP**, Agile BAs become invaluable in ensuring that the team delivers only what’s needed and no more, leading to better outcomes.
+
+# Hypotheses and Experiments in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 30</span>
+
+## When to Use Hypotheses and Experiments
+- In situations where multiple options are available, and research, data, or intuition don't provide clear direction, **hypotheses and experiments** help solve ambiguity.
+- This approach is ideal when requirements are not fixed or when the team needs to move forward despite uncertainty. It's a method to **learn while delivering**, rather than just creating features without knowing their true value.
+
+---
+
+## How Hypotheses and Experiments Work
+![alt text](images/image-23.png)
+1. **Hypothesis Formulation**:  
+![alt text](images/image-24.png)
+![alt text](images/image-25.png)
+2. **Experiment Design**:  
+![alt text](images/image-26.png)
+
+3. **Experiment Execution**:  
+   Conduct the experiment quickly and evaluate the results. Avoid over-scoping experiments, as this could waste time. The goal is to get meaningful insights from minimal effort.
+
+---
+
+## Benefits of Hypotheses and Experiments
+- **Real-Time Insights**: Provides feedback on assumptions and decisions, helping teams pivot when needed.
+- **Reduced Ambiguity**: Helps clarify uncertainties by testing ideas with actual data.
+- **Faster Decision Making**: Allows teams to experiment with minimal investment, making the process more agile.
+
+--- 
+
+# Value Stream in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 31</span>
+
+## Understanding Value Streams
+- **Value Streams** help Agile teams organize and deliver based on what brings value to customers. They ensure improvements in one part of a solution don't negatively affect others.
+- When value streams are not considered, the overall value delivered to the customer and the organization can be diluted.
+- A value stream is simply a set of steps that deliver value to the customer, end user, or a part of the organization. This can include multiple processes, departments, and systems, and the value may be delivered to different users or groups.
+
+---
+
+## Example: Online Coffee Store Case Study
+
+- **Scenario**: A business analyst is working with a team to implement a customer feedback survey tool for the payment and shipping process of an online coffee store. 
+- The **vision** is to send the survey to the customer via email or a mobile app a few days after receiving the product.
+
+---
+
+### Slicing the Scenario into User Stories
+
+1. **User Stories and Increments**: In Agile, the team slices this scenario into smaller user stories and increments of value.
+2. **Estimation and Prioritization**: The team estimates, prioritizes, and works on the items.
+
+---
+
+## Value Stream Mapping
+
+- The **value stream map** shows the major steps in the process and the time taken at each step, along with the wait times between them.
+- In this case, the process involves packing the product, which might take one to two days, but the actual work is only 10 minutes, with most of the time being lag or wait time.
+
+---
+
+### Importance of Value Stream Mapping
+
+- **Unseen Steps**: Without a value stream map, the team may miss steps that are invisible to the customer. For instance, delays or wait times that affect customer experience.
+![alt text](images/image-27.png)
+- **Survey Timing and Content**: The value stream helps the team think critically about the content and timing of the survey. Questions arise like:
+  - **Return Process**: What if the customer returns the product before receiving the survey?
+  - **Customer Service Interactions**: What if the customer has an open ticket with customer service, and the survey asks irrelevant questions?
+  - **Customer Availability**: What if the customer is out of town and hasn’t yet received the product when the survey arrives?
+
+---
+
+## Key Takeaways
+
+- Value stream maps help identify where things can go wrong and provide insights into how customer satisfaction can be improved.
+- The map aids in discovering better requirements and understanding customer experience from end to end.
+- Thinking in terms of value streams ensures that teams do not deliver features that harm the customer experience or reduce the value of the product or service.
+
+# Outcome-Focused Approach in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 33</span>
+
+## The Importance of Outcome Over Output
+
+- In Agile, it's easy to focus on **outputs** like the number of features delivered, but the real goal should be to focus on **outcomes**—the business results that those features drive.
+- Focusing too much on outputs can lead to producing many features with little actual business value. This results in high costs with potentially minimal benefits.
+- The Agile team should focus on delivering **outcomes**, not just completing tasks or meeting feature requirements. 
+
+---
+
+## Defining Outcomes at Multiple Levels
+
+- **Outcomes** should be defined at several levels:
+  - Strategic Portfolio and Product Level
+  - Roadmap Level
+  - Release Level
+  - Iteration Level
+- Focusing on outcomes helps teams better understand the purpose behind each iteration and feature release.
+
+---
+
+## Example: Online Coffee Store - Payment Functionality
+
+1. **Team Goals**: The team working on the app for an online coffee store has several key outcomes:
+   - Increase the usage of the app by customers
+   - Increase the frequency of usage
+   - Increase the number of users
+   - Convert more product views into purchases
+2. These outcomes focus on **user behaviors**, which in turn drive **business results**.
+
+---
+
+## Outcome-Based Feature Development
+
+- When the team is implementing a **notifications feature**, not all notifications will contribute equally to these outcomes.
+- **Agile BA's Role**: The Agile Business Analyst helps the team prioritize features based on the outcomes they want to achieve.
+  - The team needs to slice the feature (e.g., notifications) into smaller, valuable increments and decide which notifications align with the desired outcomes.
+- Example: A goal in an iteration might be for users to receive notifications about items left in their cart, which ties back to the larger outcome of getting users to visit the site more often.
+
+---
+
+## Aligning Iterations with Outcomes
+
+- Each **iteration goal** should contribute to a higher-level business outcome.
+- Iteration goals should be focused on value and how they will impact the user experience and business results.
+
+---
+
+## Key Takeaways
+
+- **Outcome thinking** shifts the focus from being busy to being productive in terms of actual business impact.
+- By focusing on outcomes, the team can deliver features that align with strategic goals and lead to **delighted users**.
+- Agile Business Analysts play a critical role in defining and ensuring that outcomes are clearly understood and prioritized across iterations.
+
+# Who is the Customer? Understanding the True Customer in Agile
+<span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 34</span>
+
+## Multiple Perspectives of the Customer
+
+- As an Agile Business Analyst (BA), it is important to challenge the typical definition of who your customer is.
+- In the case of modifying the payments feature for an online coffee store, the customer could be:
+  - The stakeholder requesting the modification
+  - The bank processing the payment transactions
+  - The business leader funding the project
+  - The payments manager overseeing the feature
+  - The end user (the person making the payment)
+
+---
+
+## Misguided Definition of the Customer
+
+- A common but misguided view of the "customer" is the **requester** of the product feature or modification. 
+  - The requester is often not close to the end customers and may be guessing at their needs.
+  - While it's essential to work with requesters, it does not mean blindly fulfilling their requests without considering the larger picture.
+
+---
+
+## The Real Customer
+
+- The **real customer** is the **end customer**—the person who ultimately buys the product or service. 
+  - Without these end customers, the organization would not exist.
+  - Understanding the end customer’s needs is key to delivering true value.
+
+---
+
+## Example: Customer Service Improvement
+
+- A **call center manager** requests more relevant information on the customer dashboard screen for agents. 
+  - In this case, the customer is **not** the call center manager or the agent but rather the **end customer** calling in.
+  - To deliver value, the focus should be on improving the **end customer's calling experience**.
+  - The real issue may not be dashboard information but how to equip the agent to better serve the customer.
+
+---
+
+## Shifting Context for Better Solutions
+
+- By focusing on the **end customer**, the BA can better understand the root cause and the real problem.
+- This shift in context leads to asking better questions and creating **higher quality** and **higher value** solutions.
+
+---
+
+## Key Takeaways
+
+- Always connect your work to the **end customer** to ensure you're addressing the root cause.
+- This perspective brings **purpose** to your work and leads to **higher satisfaction** for both the team and the customers.
