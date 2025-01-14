@@ -1,5 +1,23 @@
 # Agile Business Analysis: The Business Analyst Role in Agile  
+# Business Analysis Course Summary
 
+I have completed a **Business Analysis** course focusing on **Agile methodologies**, **outcome-driven delivery**, and **value stream mapping**. The course helped me gain practical experience in **stakeholder management** and gathering **requirements** by understanding the **end customer**. I learned how to drive **business outcomes** through **hypothesis-driven experimentation** and collaborating with cross-functional teams. My focus was on ensuring solutions align with **strategic goals** and deliver measurable value. I am now equipped to optimize processes, improve customer satisfaction, and contribute effectively in a **software development** environment.
+
+# Business Analyst Course Summary
+
+I have completed the **Business Analysis** course, which has equipped me with the following skills and knowledge essential for a **Business Analyst (BA)** role in a **software company**:
+
+- **Agile methodologies**: Understanding and applying Agile principles to deliver projects in an iterative, customer-focused manner.
+- **Outcome-driven delivery**: Focusing on **delivering business results** and measuring the **impact** of work on organizational goals.
+- **Value stream mapping**: Utilizing this technique to optimize business processes and ensure the delivery of efficient, customer-focused solutions.
+- **Stakeholder management**: Managing and engaging with **stakeholders** to gather requirements and ensure their expectations are met.
+- **Requirements gathering and analysis**: Ensuring that solutions meet business needs through comprehensive **requirements** gathering.
+- **End customer**: Prioritizing the **end customer** by aligning solutions to meet their needs and improve customer satisfaction.
+- **Business outcomes**: Aligning all work with measurable **business outcomes**, ensuring the value delivered to the organization is clear.
+- **Hypothesis-driven experimentation**: Applying a **hypothesis-driven** approach to experiment and validate assumptions, reducing risk and enabling better decision-making.
+- **Software development**: Understanding the **software development** process and how to contribute effectively in a team to support project success.
+
+These skills have prepared me to deliver value in a fast-paced, dynamic environment, where focusing on business results and customer satisfaction is paramount.
 
 <span style="color:Yellow; font-weight:bold; font-size:20px;">Lecture 1</span>  
 
